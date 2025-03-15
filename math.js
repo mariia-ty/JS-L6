@@ -1,0 +1,9 @@
+// module.exports.add = (a, b) => a + b;
+
+export function add(a, b) {
+  return a + b;
+}
+
+export function multiply(a, b) {
+  return a * b;
+}
